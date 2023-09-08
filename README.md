@@ -2,6 +2,6 @@
 
 
 ##
-- [Calculator](https://pramodthorat7.github.io/Articles/Calculator/index.html)
-- [LOGIN](https://<your-username>.github.io/<repository-name>/LOGIN/)
-- [SPACEX Landing page](https://<your-username>.github.io/<repository-name>/SPACEX%20Landing%20page/)
+- [Calculator](https://pramodthorat7.github.io/Articles/Calculator%20S/index.html)
+- [LOGIN](https://pramodthorat7.github.io/Articles/LOGIN%20S/index.html)
+- [SPACEX Landing page](https://pramodthorat7.github.io/Articles/SPACEX%20Landing%20page/index.html)
